@@ -1,7 +1,5 @@
 Test
 ====
 
-Testing ssh over mint
-
-***This is new test string
+**This rep for testing perpose and skilling up.
 
